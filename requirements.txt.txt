@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+ofxparse
+openpyxl
+plotly.express
